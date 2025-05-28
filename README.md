@@ -16,8 +16,8 @@ The results show that:
 - There is a statistically significant gender gap
 
 ## Dataset
-PISA Results 2000–2022 from Kaggle  
-https://www.kaggle.com/datasets/tomaz/data-on-education
+PISA Results 2000-2022 (Economics and Education) from Kaggle  
+https://www.kaggle.com/datasets/tomaz/data-on-education](https://www.kaggle.com/datasets/walassetomaz/pisa-results-2000-2022-economics-and-education
 
 ## Author
 Jumpei Kasai (2025 Midterm, Econometrics)
