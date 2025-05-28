@@ -1,6 +1,3 @@
-# pisa-education-econometrics
-Statistical analysis of how economic and social factors affect student performance using PISA data (R, regression, t-tests).
-
 # Econometric Analysis: PISA Scores and Economic Factors
 
 This project analyzes how GDP per capita, unemployment rate, income inequality, and gender affect student performance measured by PISA scores.
